@@ -1,0 +1,9 @@
+com\kp\webservices\service\RestContactsContactIdResource.class
+com\kp\webservices\service\RestEchoResource.class
+com\kp\webservices\service\RestContactsResource.class
+com\kp\webservices\service\RestSchemaClassTypeNameResource.class
+StubApp.class
+generated\ObjectFactory.class
+generated\ContactCollection.class
+com\kp\webservices\service\RestWadlResource.class
+generated\Contact.class
